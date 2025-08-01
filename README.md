@@ -100,7 +100,3 @@ Current Board:
 ## 🧑‍💻 Author
 
 Created by \Nethmi Tharushika – feel free to modify and improve it!
-
----
-
-Let me know if you'd like it formatted for GitHub (Markdown) or exported as a text/Word/PDF file.
